@@ -9,6 +9,10 @@ package com.group5.globalpet;
  */
 public class GlobalPet {
 	private int serialNumber;
+	private String model;
+	private String connectivity;
+	private int weight;
+	private String material;
 	
 
 	/**

@@ -7,6 +7,13 @@ package com.group5.globalpet;
  * @author barbz
  *
  */
-public class Movementsensor {
+public class Movementsensor extends ReceptorComponent {
+	public void detectObsticle() {
+	
+	}
+	public void detectMovement() {
+		
+	}
+	
 
 }

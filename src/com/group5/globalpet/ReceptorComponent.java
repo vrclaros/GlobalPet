@@ -8,6 +8,8 @@ package com.group5.globalpet;
  *
  */
 public class ReceptorComponent {
+	private String sensor;
+	private String emitter;
 
 
 }
