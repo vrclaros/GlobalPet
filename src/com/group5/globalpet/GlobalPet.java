@@ -20,6 +20,7 @@ public class GlobalPet {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		System.out.println("Message to be printed, proves the code has no errors"); // Print a message
 
 	}
 

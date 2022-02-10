@@ -11,7 +11,7 @@ public class App {
 	private boolean Account;
 	private String UserID;
 	private String Password;
-	private ? RemoteControl;
+	private boolean RemoteControl;
 	
 	public void requestImage() {
 		
