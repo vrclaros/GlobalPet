@@ -8,5 +8,6 @@ package com.group5.globalpet;
  *
  */
 public class PowerSource {
+	private boolean Capacity; 
 
 }

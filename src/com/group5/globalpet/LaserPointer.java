@@ -8,5 +8,12 @@ package com.group5.globalpet;
  *
  */
 public class LaserPointer {
-
+	private String color;
+	
+	public void turnOn() {
+		
+	}
+	public void turnOff() {
+		
+	}
 }
