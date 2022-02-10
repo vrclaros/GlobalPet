@@ -8,5 +8,9 @@ package com.group5.globalpet;
  *
  */
 public class Battery {
+	public void storePower() {
+		
+	}
+	
 
 }
