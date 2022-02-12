@@ -7,8 +7,8 @@ package com.group5.globalpet;
  * @author barbz
  *
  */
-public class WifFiReceiver {
-	private int Frequency;
+public class WifFiReceiver extends ReceptorComponent {
+	private int frequency;
 	
 	public void sendSignal() {
 		

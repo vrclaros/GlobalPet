@@ -5,7 +5,7 @@ package com.group5.globalpet;
 
 /**
  * @author barbz
- *
+ * Main class for Global Pet
  */
 public class GlobalPet {
 	private int serialNumber;
@@ -13,6 +13,7 @@ public class GlobalPet {
 	private String connectivity;
 	private int weight;
 	private String material;
+	private String tempMemory;
 	
 
 	/**
@@ -20,7 +21,7 @@ public class GlobalPet {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Message to be printed, proves the code has no errors"); // Print a message
+		System.out.println("Hi I'm GlobalPet! I'm here to take care of your fur baby"); // Print a message
 
 	}
 

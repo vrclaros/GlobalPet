@@ -5,10 +5,10 @@ package com.group5.globalpet;
 
 /**
  * @author barbz
- *
+ * class created for the app of GlobalPet
  */
 public class App {
-	private boolean Account;
+	private String Account;
 	private String UserID;
 	private String Password;
 	private boolean RemoteControl;

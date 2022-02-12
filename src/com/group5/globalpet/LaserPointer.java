@@ -7,7 +7,7 @@ package com.group5.globalpet;
  * @author barbz
  *
  */
-public class LaserPointer {
+public class LaserPointer extends ActiveComponent{
 	private String color;
 	
 	public void turnOn() {
