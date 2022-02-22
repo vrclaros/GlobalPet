@@ -15,4 +15,20 @@ public class RoboticArm extends ActiveComponent{
 	public void grabTreat() {
 		
 	}
+	public void extendArm() {
+		
+	}
+	public void retractArm() {
+		
+	}
+	public void raiseArm() {
+		
+	}
+	public void lowerArm() {
+		
+	}
+	public void rotateArm() {
+		
+	}
+	
 }
