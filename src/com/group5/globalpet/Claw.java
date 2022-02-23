@@ -10,9 +10,9 @@ package com.group5.globalpet;
 public class Claw extends RoboticArm {
 
 	public void openClaw() {
-		
+		//Claw can open to release items
 	}
 	public void closeClaw() {
-		
+		//Claw is open to latch unto items
 	}
 }

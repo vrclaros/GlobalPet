@@ -5,7 +5,7 @@ package com.group5.globalpet;
  */
 public class Speaker extends ActiveComponent {
 	public void emittSound() {
-		
+		//You can speak through the App and the message is then emitted through to the speaker
 	}
 
 }
