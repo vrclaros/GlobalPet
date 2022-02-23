@@ -10,10 +10,10 @@ package com.group5.globalpet;
 public class RoboticArm extends ActiveComponent{
 
 	public void throwToy() {
-		
+		// throws the small toys your pet has
 	}
 	public void grabTreat() {
-		
+		//Grabs treat from the cannister
 	}
 	public void extendArm() {
 		
