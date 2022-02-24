@@ -9,7 +9,7 @@ package com.group5.globalpet;
  */
 public class ChargingPort extends PowerSource {
 	public void transferPower() {
-		//power collected is  moved to the battery
+		//Power collected is  moved to the battery
 	}
 
 }

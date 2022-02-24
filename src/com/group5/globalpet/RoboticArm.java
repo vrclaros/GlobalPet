@@ -10,25 +10,31 @@ package com.group5.globalpet;
 public class RoboticArm extends ActiveComponent{
 
 	public void throwToy() {
-		// throws the small toys your pet has
+		// Throws the small toys your pet has
 	}
 	public void grabTreat() {
 		//Grabs treat from the cannister
 	}
 	public void extendArm() {
-		
+		// RoboticArm extended out completely 
 	}
 	public void retractArm() {
-		
+		//RoboticArm retracted in completely 
 	}
 	public void raiseArm() {
-		
+		//RoboticArm raised
 	}
 	public void lowerArm() {
-		
+		//RoboticArm Lowered
 	}
 	public void rotateArm() {
-		
+		// RobotiArm rotates
 	}
 	
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("Go get the ball Petey!");
+	}
 }
+
+

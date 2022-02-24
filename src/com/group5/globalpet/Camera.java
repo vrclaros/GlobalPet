@@ -12,7 +12,7 @@ public class Camera extends ReceptorComponent{
 		//User can record a video
 	}
 	public void captureImage() {
-		//User can take a snapshot to capture an image of their pet or what the camera picks up
+		//User can take a snapshot to capture an image of what is in front of the robot
 	}
 	public void zoomIn() {
 		// Zoom in on an item of focus
@@ -20,5 +20,8 @@ public class Camera extends ReceptorComponent{
 	public void zoomOut() {
 		//zoom out on an item of focus
 	}
-
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("Now recording...");
+	}
 }

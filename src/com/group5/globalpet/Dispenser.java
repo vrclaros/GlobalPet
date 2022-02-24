@@ -15,5 +15,8 @@ public class Dispenser extends ActiveComponent{
 		//activate when GlobalPet has given treats or food to Pet
 
 	}
-
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("Dispenser is low, please refill!");
+	}
 }

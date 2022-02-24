@@ -9,7 +9,7 @@ package com.group5.globalpet;
  */
 public class Battery extends PowerSource {
 	public void storePower() {
-		// holds the power supply once it is fully charged. It depletes as it used outside the ChargingPort 
+		// Holds the power supply once it is fully charged. It depletes as it used outside the ChargingPort 
 	}
 	
 
