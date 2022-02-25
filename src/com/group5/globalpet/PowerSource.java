@@ -1,5 +1,5 @@
 /**
- * 
+ * Super Class that brigts together all the elements required to power the robot.
  */
 package com.group5.globalpet;
 

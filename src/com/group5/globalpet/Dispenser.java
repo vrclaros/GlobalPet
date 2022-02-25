@@ -18,5 +18,6 @@ public class Dispenser extends ActiveComponent{
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println("Dispenser is low, please refill!");
+		// Displayed message when the container is low and requires to be refill
 	}
 }

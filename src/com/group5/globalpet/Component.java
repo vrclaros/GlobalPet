@@ -1,4 +1,5 @@
 /**
+ * Super class that encloses all the components built in GlobalPet
  * 
  */
 package com.group5.globalpet;
@@ -8,5 +9,5 @@ package com.group5.globalpet;
  * class created for all Components
  */
 public class Component extends GlobalPet{
-
+		
 }

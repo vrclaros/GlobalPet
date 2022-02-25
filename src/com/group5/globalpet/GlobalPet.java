@@ -4,6 +4,7 @@
 package com.group5.globalpet;
 
 /**
+ * Main class of our project, a robotic pet companion.
  * @author barbz
  * Main class for Global Pet
  */
